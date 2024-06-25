@@ -1,2 +1,4 @@
 nginx
 redis:7.2.4
+mysql:5.7.18
+docker.elastic.co/elasticsearch/elasticsearch:8.11.3
