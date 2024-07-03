@@ -6,4 +6,4 @@
 
 # redis:7.2.6
 
-minio:v2.2.6
+ minio:v2.2.6
