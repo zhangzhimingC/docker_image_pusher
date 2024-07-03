@@ -4,5 +4,6 @@
 # docker.elastic.co/elasticsearch/elasticsearch:8.11.3
 
 
-redis:7.2.6
+# redis:7.2.6
 
+minio:v2.2.6
