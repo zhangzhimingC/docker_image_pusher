@@ -5,4 +5,5 @@
 
 
 # redis:7.2.6
-minio/minio:v2.2.6
+# minio/minio:v2.2.6
+pytorch/pytorch:2.2.2-cuda12.1-cudnn8-devel
