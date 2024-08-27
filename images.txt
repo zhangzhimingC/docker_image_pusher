@@ -7,4 +7,5 @@
 # redis:7.2.6
 # minio/minio:v2.2.6
 # pytorch/pytorch:2.2.2-cuda12.1-cudnn8-devel
-flannel/flannel-cni-plugin:v1.5.1-flannel1
+# flannel/flannel-cni-plugin:v1.5.1-flannel1
+flannel/flannel:v0.25.5
