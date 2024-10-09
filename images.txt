@@ -11,4 +11,5 @@
 # flannel/flannel:v0.25.5
 # grafana/grafana-enterprise
 # elasticsearch:8.15.1
-nginx
+# nginx
+grafana/grafana-enterprise
