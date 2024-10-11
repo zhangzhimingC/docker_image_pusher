@@ -12,4 +12,5 @@
 # grafana/grafana-enterprise
 # elasticsearch:8.15.1
 # nginx
-grafana/grafana-enterprise
+# grafana/grafana-enterprise
+uozi/nginx-ui-base:latest
