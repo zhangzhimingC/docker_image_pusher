@@ -13,4 +13,5 @@
 # elasticsearch:8.15.1
 # nginx
 # grafana/grafana-enterprise
-uozi/nginx-ui-base:latest
+# uozi/nginx-ui-base:latest
+traefik:v3.1
