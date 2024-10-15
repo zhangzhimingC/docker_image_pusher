@@ -14,4 +14,5 @@
 # nginx
 # grafana/grafana-enterprise
 # uozi/nginx-ui-base:latest
-traefik:v3.1
+# traefik:v3.1
+hello-world
