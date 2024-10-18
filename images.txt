@@ -16,4 +16,4 @@
 # uozi/nginx-ui-base:latest
 # traefik:v3.1
 # hello-world
-nginx-ui
+schenkd/nginx-ui:latest
