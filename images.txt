@@ -17,4 +17,5 @@
 # traefik:v3.1
 # hello-world
 # schenkd/nginx-ui:latest
-uozi/nginx-ui:latest
+# uozi/nginx-ui:latest
+grafana/grafana:9.5.3
