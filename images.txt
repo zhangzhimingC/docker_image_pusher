@@ -19,4 +19,4 @@
 # schenkd/nginx-ui:latest
 # uozi/nginx-ui:latest
 # grafana/grafana:9.5.3
-grafana
+grafana/grafana:lastest
