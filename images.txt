@@ -20,4 +20,5 @@
 # uozi/nginx-ui:latest
 # grafana/grafana:9.5.3
 # grafana/grafana:lastest
-dyrnq/ingress-nginx-controller:v1.8.0
+# dyrnq/ingress-nginx-controller:v1.8.0
+calico/cni:v3.25.0
