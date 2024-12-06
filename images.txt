@@ -30,5 +30,5 @@
 # quay.io/brancz/kube-rbac-proxy:v0.14.2
 # quay.io/brancz/kube-rbac-proxy:v0.14.2
 # registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.9.2
-registry.k8s.io/prometheus/prometheus-adapter:v0.11.1
+# registry.k8s.io/prometheus/prometheus-adapter:v0.11.1
 registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.11.1
