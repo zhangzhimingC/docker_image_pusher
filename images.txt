@@ -24,4 +24,5 @@
 # calico/cni:v3.25.0
 # calico/node:v3.25.0
 # calico/kube-controllers:v3.25.0
-omnibus/gitlab-jh:latest
+# omnibus/gitlab-jh:latest
+quay.io/prometheus/blackbox-exporter:v0.24.0
