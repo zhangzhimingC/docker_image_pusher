@@ -25,4 +25,5 @@
 # calico/node:v3.25.0
 # calico/kube-controllers:v3.25.0
 # omnibus/gitlab-jh:latest
-quay.io/prometheus/blackbox-exporter:v0.24.0
+# quay.io/prometheus/blackbox-exporter:v0.24.0
+docker.io/jimmidyson/configmap-reload:v0.5.0
