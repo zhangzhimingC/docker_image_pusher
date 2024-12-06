@@ -27,4 +27,5 @@
 # omnibus/gitlab-jh:latest
 # quay.io/prometheus/blackbox-exporter:v0.24.0
 # docker.io/jimmidyson/configmap-reload:v0.5.0
+# quay.io/brancz/kube-rbac-proxy:v0.14.2
 quay.io/brancz/kube-rbac-proxy:v0.14.2
