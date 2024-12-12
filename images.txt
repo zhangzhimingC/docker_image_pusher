@@ -33,4 +33,5 @@
 # registry.k8s.io/prometheus/prometheus-adapter:v0.11.1
 # registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.11.1
 # grafana/loki:2.6.1
-summerwind/actions-runner-controller:v0.22.0
+# summerwind/actions-runner-controller:v0.22.0
+quay.io/brancz/kube-rbac-proxy:v0.10.0
