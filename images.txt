@@ -35,4 +35,5 @@
 # grafana/loki:2.6.1
 # summerwind/actions-runner-controller:v0.22.0
 # quay.io/brancz/kube-rbac-proxy:v0.10.0
-prom/node-exporter:latest
+# prom/node-exporter:latest
+prom/mysqld-exporter
