@@ -36,4 +36,5 @@
 # summerwind/actions-runner-controller:v0.22.0
 # quay.io/brancz/kube-rbac-proxy:v0.10.0
 # prom/node-exporter:latest
-prom/mysqld-exporter
+# prom/mysqld-exporter
+gitlab/gitlab-ce
