@@ -37,4 +37,5 @@
 # quay.io/brancz/kube-rbac-proxy:v0.10.0
 # prom/node-exporter:latest
 # prom/mysqld-exporter
-gitlab/gitlab-ce
+# gitlab/gitlab-ce
+atlassian/jira-software:latest
