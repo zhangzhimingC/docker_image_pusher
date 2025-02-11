@@ -44,4 +44,5 @@
 # minio/minio:RELEASE.2023-03-20T20-16-18Z
 # milvusdb/milvus:v2.3.2
 # pytorch/pytorch:2.4.0-cuda12.4-cudnn9-devel
-f5-tts:v1.0
+# f5-tts:v1.0
+ghcr.io/swivid/f5-tts:main
