@@ -46,4 +46,5 @@
 # pytorch/pytorch:2.4.0-cuda12.4-cudnn9-devel
 # f5-tts:v1.0
 # ghcr.io/swivid/f5-tts:main
-quay.io/jetstack/cert-manager-cainjector:v1.5.3
+# quay.io/jetstack/cert-manager-cainjector:v1.5.3
+vllm/vllm-openai:v0.4.3
