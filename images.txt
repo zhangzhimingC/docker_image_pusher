@@ -49,4 +49,5 @@
 # quay.io/jetstack/cert-manager-cainjector:v1.5.3
 # vllm/vllm-openai:v0.4.3
 # prom/mysqld-exporter
-grafana/grafana-enterprise
+# grafana/grafana-enterprise
+pytorch/pytorch
