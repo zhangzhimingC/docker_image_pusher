@@ -50,4 +50,5 @@
 # vllm/vllm-openai:v0.4.3
 # prom/mysqld-exporter
 # grafana/grafana-enterprise
-pytorch/pytorch
+# pytorch/pytorch
+docker.io/library/docker:dind
