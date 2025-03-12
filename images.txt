@@ -51,4 +51,5 @@
 # prom/mysqld-exporter
 # grafana/grafana-enterprise
 # pytorch/pytorch
-docker.io/library/docker:dind
+# docker.io/library/docker:dind
+milvus/milvus-operator:v1.2.3
