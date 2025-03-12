@@ -52,4 +52,4 @@
 # grafana/grafana-enterprise
 # pytorch/pytorch
 # docker.io/library/docker:dind
-milvus/milvus-operator:v1.2.3
+milvusdb/milvus:v2.5.6
