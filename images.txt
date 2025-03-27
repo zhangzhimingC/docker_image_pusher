@@ -55,9 +55,9 @@
 # milvusdb/milvus:v2.5.6
 # jenkinsci/blueocean:latest
 # jenkins/jenkins:lts
-vllm/vllm-openai
-lmsysorg/sglang
-
+# vllm/vllm-openai
+# lmsysorg/sglang
+nvidia/cuda:12.2.2-devel-ubuntu22.04
 
 
 
