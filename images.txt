@@ -54,4 +54,17 @@
 # docker.io/library/docker:dind
 # milvusdb/milvus:v2.5.6
 # jenkinsci/blueocean:latest
-jenkins/jenkins:lts
+# jenkins/jenkins:lts
+vllm/vllm-openai
+lmsysorg/sglang
+
+
+
+
+
+
+
+
+
+
+
