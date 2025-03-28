@@ -57,8 +57,8 @@
 # jenkins/jenkins:lts
 # vllm/vllm-openai
 # lmsysorg/sglang
-nvidia/cuda:12.2.2-devel-ubuntu22.04
-
+# nvidia/cuda:12.2.2-devel-ubuntu22.04
+prefecthq/prefect:latest
 
 
 
