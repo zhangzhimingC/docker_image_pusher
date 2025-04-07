@@ -58,8 +58,8 @@
 # vllm/vllm-openai
 # lmsysorg/sglang
 # nvidia/cuda:12.2.2-devel-ubuntu22.04
-prefecthq/prefect:latest
-
+# prefecthq/prefect:latest
+phoenixframework/phoenix
 
 
 
