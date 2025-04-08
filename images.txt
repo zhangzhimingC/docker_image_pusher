@@ -59,7 +59,7 @@
 # lmsysorg/sglang
 # nvidia/cuda:12.2.2-devel-ubuntu22.04
 # prefecthq/prefect:latest
-grafana:loki
+grafana/loki
 
 
 
