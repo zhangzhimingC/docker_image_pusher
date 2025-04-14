@@ -61,12 +61,12 @@
 # prefecthq/prefect:latest
 # grafana/loki
 # postgres
-mysql:8
-redis:6.2
-victoriametrics/victoria-metrics:v1.79.12
-flashcatcloud/nightingale:latest
-flashcatcloud/categraf:latest
-
+# mysql:8
+# redis:6.2
+# victoriametrics/victoria-metrics:v1.79.12
+# flashcatcloud/nightingale:latest
+# flashcatcloud/categraf:latest
+prom/prometheus:v2.55.1
 
 
 
