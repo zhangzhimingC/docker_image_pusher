@@ -66,8 +66,8 @@
 # victoriametrics/victoria-metrics:v1.79.12
 # flashcatcloud/nightingale:latest
 # flashcatcloud/categraf:latest
-prom/prometheus:v2.55.1
-
+# prom/prometheus:v2.55.1
+portainer/portainer-ce:lts
 
 
 
