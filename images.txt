@@ -67,8 +67,8 @@
 # flashcatcloud/nightingale:latest
 # flashcatcloud/categraf:latest
 # prom/prometheus:v2.55.1
-portainer/portainer-ce:lts
-
+# portainer/portainer-ce:lts
+docker.elastic.co/elasticsearch/elasticsearch
 
 
 
