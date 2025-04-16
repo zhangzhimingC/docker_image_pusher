@@ -68,7 +68,7 @@
 # flashcatcloud/categraf:latest
 # prom/prometheus:v2.55.1
 # portainer/portainer-ce:lts
-docker.elastic.co/elasticsearch/elasticsearch
+docker.elastic.co/kibana/kibana:8.10.4
 
 
 
