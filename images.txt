@@ -69,6 +69,7 @@
 # prom/prometheus:v2.55.1
 # portainer/portainer-ce:lts
 # docker.elastic.co/kibana/kibana:8.10.4
-caddy:2
+# caddy:2
+uozi/nginx-ui:latest
 
 
