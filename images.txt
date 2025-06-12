@@ -72,5 +72,5 @@
 # caddy:2
 # uozi/nginx-ui:latest
 # utkuozdemir/nvidia_gpu_exporter:1.1.0
-docker.io/kiwigrid/k8s-sidecar:1.30.3
-
+# docker.io/kiwigrid/k8s-sidecar:1.30.3
+bats/bats:1.12.0
