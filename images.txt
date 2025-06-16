@@ -17,7 +17,7 @@
 # schenkd/nginx-ui:latest
 # uozi/nginx-ui:latest
 # grafana/grafana:9.5.3
-grafana/grafana-oss:arm64-latest
+grafana/grafana-arm:latest
 # dyrnq/ingress-nginx-controller:v1.8.0
 # calico/cni:v3.25.0
 # calico/node:v3.25.0
