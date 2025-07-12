@@ -9,7 +9,7 @@
 # flannel/flannel:v0.25.5
 # grafana/grafana-enterprise
 # elasticsearch:8.15.1
-# nginx
+nginx
 # grafana/grafana-enterprise
 # uozi/nginx-ui-base:latest
 # traefik:v3.1
@@ -77,4 +77,4 @@ summerwind/actions-runner:latest
 # bats/bats:1.12.0
 # jenkins/jenkins:2.440.1-jdk21
 
-registry.k8s.io/pause:3.1
+# registry.k8s.io/pause:3.1
