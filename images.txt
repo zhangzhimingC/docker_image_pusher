@@ -76,7 +76,8 @@
 # docker.io/kiwigrid/k8s-sidecar:1.30.3
 # bats/bats:1.12.0
 # jenkins/jenkins:2.440.1-jdk21
-ghost
+# ghost
+calico/cni:v3.26.3
 # registry.k8s.io/pause:3.1
 # pause-arm64:3.1
 # grafana/grafana-enterprise:12.1.0-ubuntu
