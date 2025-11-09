@@ -78,12 +78,13 @@
 # jenkins/jenkins:2.440.1-jdk21
 # ghost
 # calico/cni:v3.26.3
-wangyanglinux/myapp:v1.0
-wangyanglinux/myapp:v2.0
-wangyanglinux/myapp:v3.0
+#wangyanglinux/myapp:v1.0
+#wangyanglinux/myapp:v2.0
+#wangyanglinux/myapp:v3.0
  #  calico/typha:v3.26.3
 # calico/node:v3.26.3
 # registry.k8s.io/pause:3.1
 # pause-arm64:3.1
 # grafana/grafana-enterprise:12.1.0-ubuntu
-wangyanglinux/myapp:v4.0
+#wangyanglinux/myapp:v4.0
+wangyanglinux/tools:busybox
